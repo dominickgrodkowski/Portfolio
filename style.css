@@ -227,6 +227,18 @@ b.css {
   color: #1e6bc4;
 }
 
+b.cms {
+  color: #09a7f1;
+}
+
+b.wordpress {
+  color: #3309f1;
+}
+
+b.elementor {
+  color: #27d110;
+}
+
 #aboutMe,
 #contactMe,
 #resume {

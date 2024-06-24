@@ -4,7 +4,7 @@ Welcome to the source repository for my personal web developer portfolio. This p
 
 ## URL 🚀
 
-The live version of the portfolio can be accessed here: [Dominick Grodkowski's Portfolio](https://dominickgrodkowski.github.io/Portfolio/)
+The live version of the portfolio can be accessed here: [Dominick Grodkowski's Portfolio](Dominick-Grodkowski.de)
 
 ## Features 📋
 
@@ -18,4 +18,3 @@ The live version of the portfolio can be accessed here: [Dominick Grodkowski's P
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and responsive design.
 - **JavaScript**: To enhance interactivity.
-- **GitHub Pages**: For hosting the website.

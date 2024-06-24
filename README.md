@@ -4,7 +4,7 @@ Welcome to the source repository for my personal web developer portfolio. This p
 
 ## URL 🚀
 
-The live version of the portfolio can be accessed here: [Dominick Grodkowski's Portfolio](Dominick-Grodkowski.de)
+The live version of the portfolio can be accessed here: [Dominick Grodkowski's Portfolio](www.Dominick-Grodkowski.de)
 
 ## Features 📋
 

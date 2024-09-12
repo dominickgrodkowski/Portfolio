@@ -4,8 +4,9 @@ Welcome to the source repository for my personal web developer portfolio. This p
 
 ## URL 🚀
 
-The live version of the portfolio can be accessed here: [Dominick Grodkowski's Portfolio](https://dominickgrodkowski.github.io/Portfolio/)
-This is an OLD VERSION! Please Check the new Version here: [https://www.dominick-grodkowski.de/](https://www.dominick-grodkowski.de/)
+The Old version of the portfolio can be accessed here: [Dominick Grodkowski's Portfolio](https://dominickgrodkowski.github.io/Portfolio/)
+Please Check the new Version here: [https://www.dominick-grodkowski.de/](https://www.dominick-grodkowski.de/)
+for more infos about the new version please look at repository: [PortfolioV2](https://github.com/dominickgrodkowski/PortfolioV2)
 
 ## Features 📋
 
